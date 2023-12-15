@@ -1,25 +1,25 @@
 
 {
 
-    "name": "Gangster Baby Renamer Bot",
+    "name": "MAH Renamer Bot",
 
     "description": "Telegram File Renamer Bot 4GB ",
 
     "keywords": [
 
-        "Gangster Baby Renamer Bot ",
+        "MAH Renamer Bot ",
 
         "4GB File",
 
         "telegram",
         
-        "LazyDeveloperr"
+        "Mahsoommjm"
 
     ],
 
-    "repository": "https://github.com/LazyDeveloperr/Gangster-Baby-V2",
+    "repository": "https://github.com/mahcopration/Gangster-Baby-Renamer-V2",
 
-    "success_url": "https://telegram.dog/LazyDeveloperr",
+    "success_url": "https://telegram.dog/Mahsoommjm",
 
     "env": {
 
